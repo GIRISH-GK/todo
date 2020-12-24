@@ -1,0 +1,30 @@
+body{
+  background-color:yellow;
+
+}
+
+.App{
+  background-color: #3f313f;
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+}
+.todo input{
+ background-color: blue;
+ border: 0;
+ width: 200px;
+ height: 50px;
+ padding: 5px 20px;
+ margin: 20px;
+ font-size: 15px;
+ border-radius: 9px;
+ outline: none;
+ color: white;
+}
+.todo button{
+  height: 50px;
+  width: 80px;
+  border-radius: 5px;
+  border: 0;
+  background-color:navajowhite;
+}
